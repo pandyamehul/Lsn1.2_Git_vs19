@@ -24,6 +24,11 @@ namespace Lsn1._2_Git_vs19
             //Step# 5 - Working on concept of conflict. For this changes are done first locally and also similar file is then modified on via online - this will create conflict. Conflict will be then reviewd and approved.
 
             //step# 5.1 - Add method added to the Feature1 class via visual studio locally and then commited.
+
+            //step# 5.2 - Updated the Add method of Feature1 class change data type from int to var. Code checked in online under the master branch.
+
+            //Step# 5.3 - At the same time Add method refactored and parameterised in local branch. Local branch is behind the master branch online. Locally changes done are commited - this will create conflict in merge as both the changes are done under the add method.
+
         }
     }
 }
