@@ -16,6 +16,8 @@ namespace Lsn1._2_Git_vs19
 
             //Step# 4 - New branch created called "Feature#1" from local/master.
             new Feature1().MethodPrint();
+
+            //Step# 4.1 - new branch was created locally and then change# 4 was commited and then sync/push to the cloud.
         }
     }
 }
