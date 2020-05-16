@@ -31,6 +31,7 @@ namespace Lsn1._2_Git_vs19
 
             //Step# 6 - Created Feature2 branch from local, added Feature 2 class. commited code to the feature 2 class.
 
+            //Step# 7 - Feature# 3 added to the code via online from master branch.
         }
     }
 }
