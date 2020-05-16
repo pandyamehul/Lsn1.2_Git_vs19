@@ -13,8 +13,8 @@ namespace Lsn1._2_Git_vs19
 
         public int add()
         {
-            int num1 = 10;
-            int num2 = 20;
+            var num1 = 10;
+            var num2 = 20;
             return num1 + num2;
         }
     }
