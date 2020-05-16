@@ -29,6 +29,7 @@ namespace Lsn1._2_Git_vs19
 
             //Step# 5.3 - At the same time Add method refactored and parameterised in local branch. Local branch is behind the master branch online. Locally changes done are commited - this will create conflict in merge as both the changes are done under the add method.
 
+            //Step# 7 - Feature# 3 added to the code via online from master branch.
         }
     }
 }
