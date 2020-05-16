@@ -18,6 +18,12 @@ namespace Lsn1._2_Git_vs19
             new Feature1().MethodPrint();
 
             //Step# 4.1 - new branch was created locally and then change# 4 was commited and then sync/push to the cloud.
+
+            //Step# 4.2 - Feature#1 was merged into the master by creating the Pull Request (PR) - PR reviewed and approved online.
+
+            //Step# 5 - Working on concept of conflict. For this changes are done first locally and also similar file is then modified on via online - this will create conflict. Conflict will be then reviewd and approved.
+
+            //step# 5.1 - Add method added to the Feature1 class via visual studio locally and then commited.
         }
     }
 }
